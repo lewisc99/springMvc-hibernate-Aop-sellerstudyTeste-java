@@ -1,10 +1,6 @@
 # JAVA SPRING MVC - Crud register of Seller.
 
 
-
-=
-
-
 ## 🖼 Screenshot das telas da aplicação <br/>
 <p>List Seller</p><img src="WebContent/WEB-INF/images/list.PNG">
 <br/>
